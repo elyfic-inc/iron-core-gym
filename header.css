@@ -1,0 +1,39 @@
+/* =========================================
+   Header (BEM Block: header)
+========================================= */
+.header {
+    position: fixed;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    max-width: 500px;
+    z-index: 100;
+    background-color: rgba(17, 17, 17, 0.9);
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid var(--color-gray);
+    transition: background-color 0.3s ease;
+}
+
+.header__inner {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 15px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header__logo {
+    font-family: var(--font-heading);
+    font-size: 1.8rem;
+    color: var(--color-white);
+}
+
+.header__logo span {
+    color: var(--color-yellow-green);
+}
+
+.header__nav, .header__btn {
+    display: none;
+}
