@@ -7,7 +7,7 @@
     left: 50%;
     transform: translateX(-50%);
     width: 100%;
-    max-width: 500px;
+    max-width: 375px;
     z-index: 100;
     background-color: rgba(17, 17, 17, 0.9);
     backdrop-filter: blur(10px);
