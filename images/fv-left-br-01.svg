@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1.049206,0,0,-0.16588,-20.434487,952.41601)">
+        <rect x="39.187" y="924.837" width="336.813" height="29.163" style="fill:white;"/>
+    </g>
+    <g transform="matrix(1.049206,0,0,-0.16588,1589.565513,947.578521)">
+        <rect x="39.187" y="924.837" width="336.813" height="29.163" style="fill:white;"/>
+    </g>
+    <g transform="matrix(0.514662,0,0,0.485442,-137.389442,-7.329437)">
+        <g transform="matrix(1,0,-0.176327,1,125.192156,0)">
+            <g transform="matrix(402.435687,0,0,402.435687,1596.94034,710)">
+            </g>
+            <text x="285px" y="710px" style="font-family:'ToppanBunkyuMidashiGothicStdN-ExtraBold', 'Toppan Bunkyu Midashi Gothic', sans-serif;font-weight:900;font-size:402.436px;fill:white;">24時間</text>
+        </g>
+    </g>
+    <g transform="matrix(0.266418,0,0,0.251292,328.694356,658.863337)">
+        <g transform="matrix(402.435687,0,0,402.435687,4788.25534,710)">
+        </g>
+        <text x="285px" y="710px" style="font-family:'ToppanBunkyuMidashiGothicStdN-ExtraBold', 'Toppan Bunkyu Midashi Gothic', sans-serif;font-weight:900;font-size:402.436px;fill:white;">24時間フ<tspan x="1971.206px " y="710px ">ィ</tspan>ットネスジム</text>
+    </g>
+    <g transform="matrix(0.569222,0,0,0.536905,500.706354,-42.436214)">
+        <g transform="matrix(1,0,-0.176327,1,125.192156,0)">
+            <g transform="matrix(402.734078,0,0,402.734078,1187.124335,710)">
+            </g>
+            <text x="285px" y="710px" style="font-family:'ToppanBunkyuMidashiGothicStdN-ExtraBold', 'Toppan Bunkyu Midashi Gothic', sans-serif;font-weight:900;font-size:402.734px;fill:white;">３<tspan x="534.695px 784.39px " y="710px 710px ">６５</tspan></text>
+        </g>
+    </g>
+    <g transform="matrix(0.514662,0,0,0.485442,973.503287,-19.246354)">
+        <g transform="matrix(1,0,-0.176327,1,125.192156,0)">
+            <g transform="matrix(402.435687,0,0,402.435687,687.435687,710)">
+            </g>
+            <text x="285px" y="710px" style="font-family:'ToppanBunkyuMidashiGothicStdN-ExtraBold', 'Toppan Bunkyu Midashi Gothic', sans-serif;font-weight:900;font-size:402.436px;fill:white;">日</text>
+        </g>
+    </g>
+    <g transform="matrix(0.543541,0,0,0.512682,-138.255161,252.260546)">
+        <g transform="matrix(1,0,-0.176327,1,125.192156,0)">
+            <g transform="matrix(402.435687,0,0,402.435687,3906.921185,710)">
+            </g>
+            <text x="285px" y="710px" style="font-family:'ToppanBunkyuMidashiGothicStdN-ExtraBold', 'Toppan Bunkyu Midashi Gothic', sans-serif;font-weight:900;font-size:402.436px;fill:white;">好きな時に通える。</text>
+        </g>
+    </g>
+</svg>
